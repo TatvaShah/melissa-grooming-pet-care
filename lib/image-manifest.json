@@ -1,0 +1,188 @@
+{
+ "/images/dog-1.webp": {
+  "w": 1080,
+  "h": 1440,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080
+  ],
+  "base": "/images/_opt/dog-1.d53a615fc8",
+  "stamp": "d53a615fc8"
+ },
+ "/images/dog-10.webp": {
+  "w": 1080,
+  "h": 1440,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080
+  ],
+  "base": "/images/_opt/dog-10.99a47f033d",
+  "stamp": "99a47f033d"
+ },
+ "/images/dog-2.webp": {
+  "w": 1080,
+  "h": 1080,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080
+  ],
+  "base": "/images/_opt/dog-2.a050648077",
+  "stamp": "a050648077"
+ },
+ "/images/dog-3.webp": {
+  "w": 1080,
+  "h": 1080,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080
+  ],
+  "base": "/images/_opt/dog-3.d27f50969e",
+  "stamp": "d27f50969e"
+ },
+ "/images/dog-4.webp": {
+  "w": 1080,
+  "h": 1350,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080
+  ],
+  "base": "/images/_opt/dog-4.bf2bbd1689",
+  "stamp": "bf2bbd1689"
+ },
+ "/images/dog-5.webp": {
+  "w": 1080,
+  "h": 1440,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080
+  ],
+  "base": "/images/_opt/dog-5.dc9ce5faa4",
+  "stamp": "dc9ce5faa4"
+ },
+ "/images/dog-6.webp": {
+  "w": 1080,
+  "h": 1440,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080
+  ],
+  "base": "/images/_opt/dog-6.94f25911e9",
+  "stamp": "94f25911e9"
+ },
+ "/images/dog-7.webp": {
+  "w": 1080,
+  "h": 1440,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080
+  ],
+  "base": "/images/_opt/dog-7.a3358289c7",
+  "stamp": "a3358289c7"
+ },
+ "/images/dog-8.webp": {
+  "w": 1080,
+  "h": 1080,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080
+  ],
+  "base": "/images/_opt/dog-8.e6352c7a87",
+  "stamp": "e6352c7a87"
+ },
+ "/images/dog-9.webp": {
+  "w": 1080,
+  "h": 1440,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080
+  ],
+  "base": "/images/_opt/dog-9.db6f0fa6c7",
+  "stamp": "db6f0fa6c7"
+ },
+ "/images/logo.png": {
+  "w": 512,
+  "h": 512,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   512
+  ],
+  "base": "/images/_opt/logo.8a6586ca12",
+  "stamp": "8a6586ca12"
+ },
+ "/images/og-photo.jpg": {
+  "w": 480,
+  "h": 630,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   480
+  ],
+  "base": "/images/_opt/og-photo.cfe421f755",
+  "stamp": "cfe421f755"
+ }
+}
